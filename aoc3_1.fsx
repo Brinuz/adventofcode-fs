@@ -26,5 +26,3 @@ Set.intersect (Set.ofList wire1) (Set.ofList wire2)
 |> List.map (fun (a, b) -> abs a + abs b)
 |> List.filter (fun r -> r > 0)
 |> List.min
-
-6t=&^T?RUE~ha+bT
